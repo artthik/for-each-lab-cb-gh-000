@@ -2,7 +2,7 @@ function iterativeLog(array){
   return 0;
 }
 function iterate(callback){
-  var array = ["test"];
+  var array = ["test","foo"];
   array.forEach(callback);
   return 0;
 }
